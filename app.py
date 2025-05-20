@@ -134,13 +134,13 @@ Ao longo da história, eventos políticos e acordos internacionais têm desempen
 Os preços do petróleo são influenciados por diversos fatores econômicos e de mercado. A inflação, por exemplo, pode levar a flutuações nos preços. Durante a década de 1970, os preços globais do petróleo variaram entre \$1,00 e \$2,00 por barril, ajustados pela inflação, chegando a aproximadamente \$20/\bbl e \$40/\bbl. A volatilidade nos mercados e as mudanças na oferta e demanda também têm impacto nos preços do petróleo.
 """)
 
-    st.image("img_dash_1.png", use_column_width=True, caption="")
+    st.image("img_dash_1.png", use_container_width=True, caption="")
 
     st.markdown("""
 Em 2 de agosto de 1990, o Exército iraquiano de Saddam Hussein invadiu o emirado do Kuwait e anexou este pequeno território rico em petróleo, mas sete meses depois foi expulso dali por uma coalizão internacional liderada pelos Estados Unidos.
 """)
 
-    st.image("img_dash_2.png", use_column_width=True, caption="")
+    st.image("img_dash_2.png", use_container_width=True, caption="")
 
     st.markdown("""
 Os ataques promovidos pela Al-Qaeda e seu líder Osama Bin Laden ocorreram em decorrência de um longo conflito histórico entre os EUA e os países árabes do Oriente Médio.
@@ -148,57 +148,57 @@ O preço do petróleo disparou diante da possibilidade de uma guerra entre os Es
 Em 7 de outubro de 2001, quase um mês após os atentados ao World Trade Center, os Estados Unidos, com o apoio da Inglaterra, iniciaram uma ofensiva militar contra a milícia Talibã, que controlava o Afeganistão, e a rede Al Qaeda, comandada por Osama Bin Laden, acusadas de serem as responsáveis pelos ataques terroristas.
 """)
 
-    st.image("img_dash_3.png", use_column_width=True, caption="")
+    st.image("img_dash_3.png", use_container_width=True, caption="")
 
     st.markdown("""
 A invasão do Iraque em 2003 foi o primeiro estágio da Guerra do Iraque. A fase de invasão começou em 19 de março de 2003 (aéreo) e 20 de março de 2003 (terrestre) e durou pouco mais de um mês, incluindo 26 dias de grandes operações de combate, nas quais uma força combinada de tropas dos Estados Unidos, Reino Unido, Austrália e a Polônia invadiu o Iraque.
 """)
 
-    st.image("img_dash_4.png", use_column_width=True, caption="")
+    st.image("img_dash_4.png", use_container_width=True, caption="")
 
     st.markdown("""
 A crise das hipotecas nos Estados Unidos e suas consequências causaram dias de pânico nos mercados financeiros. No dia da quebra do Lehman Brothers, as bolsas em Wall Street tiveram as piores perdas desde os ataques de 11 de Setembro, em 2001.
 """)
 
-    st.image("img_dash_5.png", use_column_width=True, caption="")
+    st.image("img_dash_5.png", use_container_width=True, caption="")
 
     st.markdown("""
 O desenvolvimento de novas tecnologias de extração, como o óleo de xisto, permitiu uma maior produção de petróleo. Os Estados Unidos, por exemplo, se tornaram o maior produtor mundial de petróleo, graças às suas empresas americanas e suas inovações. Esses avanços contribuíram para um aumento na oferta global e consequentes variações nos preços do petróleo.
 """)
 
-    st.image("img_dash_6.png", use_column_width=True, caption="")
+    st.image("img_dash_6.png", use_container_width=True, caption="")
 
     st.markdown("""
 A Primavera Árabe foi um conjunto de manifestações populares que aconteceram em países do Norte da África e em parte da região do Oriente Médio entre o final de 2010 e o ano de 2013, com consequências que reverberam até o presente em muitos dos países envolvidos.
 A onda de protestos se espalhou rapidamente pelo chamado mundo árabe, que compreende as nações falantes do idioma, com o auxílio das redes sociais, e tinha como principal objetivo a retomada democrática e a melhoria da qualidade de vida em seus respectivos países, muitos dos quais estavam sendo governado por lideranças autoritárias e/ou corruptas, além de uma grave crise econômica.
 """)
 
-    st.image("img_dash_7.png", use_column_width=True, caption="")
+    st.image("img_dash_7.png", use_container_width=True, caption="")
 
     st.markdown("""
 O mais recente tratado internacional é o Acordo de Paris, adotado em 2015, durante a 21ª Conferência das Partes ocorreu, em Paris.
 O acordo de Paris tem como objetivo fortalecer a resposta global à ameaça das mudanças climáticas. Ele foi aprovado pelos 195 países participantes que se comprometeram em reduzir emissões de gases de efeito estufa.
 """)
 
-    st.image("img_dash_8.png", use_column_width=True, caption="")
+    st.image("img_dash_8.png", use_container_width=True, caption="")
 
     st.markdown("""
 Uma série de sanções econômicas impostas pelos Estados Unidos ao Irã. Para Donald Trump, o presidente norte-americano, o regime de Teerã não cumpre os termos do acordo nuclear assinado em 2015.
 """)
 
-    st.image("img_dash_9.png", use_column_width=True, caption="")
+    st.image("img_dash_9.png", use_container_width=True, caption="")
 
     st.markdown("""
 Crises globais e pandemias, como a COVID-19, impactam a demanda mundial de petróleo e, consequentemente, os preços. Em 2020, os preços do marcador Brent registraram o menor valor desde 2004 devido à redução da atividade econômica e restrições impostas pelos países para controlar a propagação do vírus.
 """)
 
-    st.image("img_dash_10.png", use_column_width=True, caption="")
+    st.image("img_dash_10.png", use_container_width=True, caption="")
 
     st.markdown("""
 Os integrantes da Organização dos Países Exportadores de Petróleo e aliados (Opep+) confirmaram o corte de produção de petróleo em 2 milhões de barris por dia (bpd) a partir de novembro 2022. Esse é o maior corte desde abril de 2020, quando a pandemia começou. O grupo ainda informa que o acordo de cooperação atual foi estendido até 31 de dezembro de 2023.
 """)
 
-    st.image("img_dash_11.png", use_column_width=True, caption="")
+    st.image("img_dash_11.png", use_container_width=True, caption="")
 
     st.markdown("""
 Dois navios comerciais foram atacados no Mar Vermelho. A ação terrorista aconteceu nesta segunda-feira (18) e teve a autoria reclamada pelo movimento Houthi, do Iêmen. Drones foram usados para o ataque que gerou reação de empresas petroleiras, que começam a desviar embarcações da região.
