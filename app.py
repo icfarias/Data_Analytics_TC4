@@ -202,7 +202,8 @@ Os integrantes da Organização dos Países Exportadores de Petróleo e aliados 
 
     st.markdown("""
 Dois navios comerciais foram atacados no Mar Vermelho. A ação terrorista aconteceu nesta segunda-feira (18) e teve a autoria reclamada pelo movimento Houthi, do Iêmen. Drones foram usados para o ataque que gerou reação de empresas petroleiras, que começam a desviar embarcações da região.
-A notícia gerou apreensão nos investidores, e houve impacto no mercado de petróleo. Nesta segunda-feira, o barril do tipo brent — principal referência para o mercado brasileiro — subiu 1,80%, e fechou o dia a US$ 77,95. Já o contrato do tipo WTI teve alta de 1,50%, para US$ 72,47.
+A notícia gerou apreensão nos investidores, e houve impacto no mercado de petróleo. 
+Nesta segunda-feira, o barril do tipo brent — principal referência para o mercado brasileiro — subiu 1,80%, e fechou o dia a US$ 77,95. Já o contrato do tipo WTI teve alta de 1,50%, para US$ 72,47.
 """)
 
     st.markdown("---")
