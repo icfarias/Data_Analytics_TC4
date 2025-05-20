@@ -121,29 +121,89 @@ elif page == "📈 Exploração e Insights":
     col3.metric("Variação Estimada", f"{variacao:.2f}%")
 
     st.subheader("🔍 Insights Relevantes")
+
     st.markdown("""
-    **Anos 1980 e 1990**
+A história do preço do petróleo tem sido marcada por períodos de estabilidade e turbulência ao longo dos anos. No século 20, os preços globais do petróleo geralmente variavam entre \$1,00 e \$2,00 por barril até 1970, o que equivale a aproximadamente \$20 a \$40 por barril ajustados pela inflação. Naquela época, os Estados Unidos eram o maior produtor mundial de petróleo e mantinham os preços regulados, aproveitando a abundância de petróleo doméstico.
 
-    • 1987-1990: O preço do petróleo foi relativamente estável após a crise do petróleo dos anos 1970. No entanto, a Guerra do Golfo em 1990 causou um aumento significativo nos preços devido à incerteza no fornecimento.  
-    • 1997-1998: A crise financeira asiática levou a uma queda na demanda por petróleo, resultando em uma queda acentuada nos preços.  
+Contudo, a situação começou a mudar com o advento de eventos geopolíticos e crises econômicas. Por exemplo, os atentados de 11 de setembro de 2001, a segunda Guerra do Golfo em 2003 e a crise no Oriente Médio elevaram os preços do petróleo de forma lenta, mas constante. Além disso, em 2020, o mercado de petróleo e o preço do petróleo brent sofreu mudanças importantes devido à guerra de preços entre a Rússia e a Arábia Saudita, bem como a desaceleração econômica global provocada pela pandemia de COVID-19.
 
-    **Anos 2000**
+Ao longo das décadas, diversos fatores geopolíticos e econômicos moldaram a evolução dos preços do petróleo, evidenciando a natureza complexa e imprevisível desse mercado.
 
-    • 2001: Os ataques de 11 de setembro nos EUA causaram uma breve queda nos preços devido à incerteza econômica global.  
-    • 2003-2008: A invasão do Iraque em 2003 e o aumento da demanda da China e da Índia contribuíram para um aumento constante nos preços, culminando em um pico em 2008, quando os preços atingiram cerca de $147 por barril.  
-    • 2008: A crise financeira global resultou em uma queda abrupta nos preços do petróleo.  
+Ao longo da história, eventos políticos e acordos internacionais têm desempenhado um papel fundamental na evolução dos preços do petróleo. A criação da OPEP (Organização dos Países Exportadores de Petróleo) em 1960, por exemplo, permitiu maior cooperação e controle sobre a oferta de petróleo pelos principais produtores, como a Arábia Saudita e a Rússia. Eventos políticos, como conflitos no Oriente Médio envolvendo o Irã, Israel e outros países também afetaram os preços ao longo do tempo.
 
-    **Anos 2010**
+Os preços do petróleo são influenciados por diversos fatores econômicos e de mercado. A inflação, por exemplo, pode levar a flutuações nos preços. Durante a década de 1970, os preços globais do petróleo variaram entre \$1,00 e \$2,00 por barril, ajustados pela inflação, chegando a aproximadamente \$20/\bbl e \$40/\bbl. A volatilidade nos mercados e as mudanças na oferta e demanda também têm impacto nos preços do petróleo.
+""")
 
-    • 2010-2014: A recuperação econômica global e a instabilidade no Oriente Médio, incluindo a Primavera Árabe, mantiveram os preços elevados.  
-    • 2014-2016: Aumento da produção de petróleo de xisto nos EUA e a decisão da OPEP de não reduzir a produção levaram a uma queda significativa nos preços.  
-    • 2019-2020: A pandemia de COVID-19 causou uma queda drástica na demanda por petróleo, resultando em preços negativos temporários em abril de 2020.  
+    st.image("img_dash_1.png", use_column_width=True, caption="")
 
-    **Anos 2020**
+    st.markdown("""
+Em 2 de agosto de 1990, o Exército iraquiano de Saddam Hussein invadiu o emirado do Kuwait e anexou este pequeno território rico em petróleo, mas sete meses depois foi expulso dali por uma coalizão internacional liderada pelos Estados Unidos.
+""")
 
-    • 2021-2022: A recuperação econômica pós-pandemia e as tensões geopolíticas, como a invasão da Ucrânia pela Rússia, contribuíram para a volatilidade dos preços.  
-    • 2023-2025: A transição para fontes de energia mais limpas e as políticas de descarbonização global começaram a impactar a demanda por petróleo, resultando em uma tendência de preços mais baixos e voláteis.
-    """)
+    st.image("img_dash_2.png", use_column_width=True, caption="")
+
+    st.markdown("""
+Os ataques promovidos pela Al-Qaeda e seu líder Osama Bin Laden ocorreram em decorrência de um longo conflito histórico entre os EUA e os países árabes do Oriente Médio.
+O preço do petróleo disparou diante da possibilidade de uma guerra entre os Estados Unidos e o Oriente Médio.
+Em 7 de outubro de 2001, quase um mês após os atentados ao World Trade Center, os Estados Unidos, com o apoio da Inglaterra, iniciaram uma ofensiva militar contra a milícia Talibã, que controlava o Afeganistão, e a rede Al Qaeda, comandada por Osama Bin Laden, acusadas de serem as responsáveis pelos ataques terroristas.
+""")
+
+    st.image("img_dash_3.png", use_column_width=True, caption="")
+
+    st.markdown("""
+A invasão do Iraque em 2003 foi o primeiro estágio da Guerra do Iraque. A fase de invasão começou em 19 de março de 2003 (aéreo) e 20 de março de 2003 (terrestre) e durou pouco mais de um mês, incluindo 26 dias de grandes operações de combate, nas quais uma força combinada de tropas dos Estados Unidos, Reino Unido, Austrália e a Polônia invadiu o Iraque.
+""")
+
+    st.image("img_dash_4.png", use_column_width=True, caption="")
+
+    st.markdown("""
+A crise das hipotecas nos Estados Unidos e suas consequências causaram dias de pânico nos mercados financeiros. No dia da quebra do Lehman Brothers, as bolsas em Wall Street tiveram as piores perdas desde os ataques de 11 de Setembro, em 2001.
+""")
+
+    st.image("img_dash_5.png", use_column_width=True, caption="")
+
+    st.markdown("""
+O desenvolvimento de novas tecnologias de extração, como o óleo de xisto, permitiu uma maior produção de petróleo. Os Estados Unidos, por exemplo, se tornaram o maior produtor mundial de petróleo, graças às suas empresas americanas e suas inovações. Esses avanços contribuíram para um aumento na oferta global e consequentes variações nos preços do petróleo.
+""")
+
+    st.image("img_dash_6.png", use_column_width=True, caption="")
+
+    st.markdown("""
+A Primavera Árabe foi um conjunto de manifestações populares que aconteceram em países do Norte da África e em parte da região do Oriente Médio entre o final de 2010 e o ano de 2013, com consequências que reverberam até o presente em muitos dos países envolvidos.
+A onda de protestos se espalhou rapidamente pelo chamado mundo árabe, que compreende as nações falantes do idioma, com o auxílio das redes sociais, e tinha como principal objetivo a retomada democrática e a melhoria da qualidade de vida em seus respectivos países, muitos dos quais estavam sendo governado por lideranças autoritárias e/ou corruptas, além de uma grave crise econômica.
+""")
+
+    st.image("img_dash_7.png", use_column_width=True, caption="")
+
+    st.markdown("""
+O mais recente tratado internacional é o Acordo de Paris, adotado em 2015, durante a 21ª Conferência das Partes ocorreu, em Paris.
+O acordo de Paris tem como objetivo fortalecer a resposta global à ameaça das mudanças climáticas. Ele foi aprovado pelos 195 países participantes que se comprometeram em reduzir emissões de gases de efeito estufa.
+""")
+
+    st.image("img_dash_8.png", use_column_width=True, caption="")
+
+    st.markdown("""
+Uma série de sanções econômicas impostas pelos Estados Unidos ao Irã. Para Donald Trump, o presidente norte-americano, o regime de Teerã não cumpre os termos do acordo nuclear assinado em 2015.
+""")
+
+    st.image("img_dash_9.png", use_column_width=True, caption="")
+
+    st.markdown("""
+Crises globais e pandemias, como a COVID-19, impactam a demanda mundial de petróleo e, consequentemente, os preços. Em 2020, os preços do marcador Brent registraram o menor valor desde 2004 devido à redução da atividade econômica e restrições impostas pelos países para controlar a propagação do vírus.
+""")
+
+    st.image("img_dash_10.png", use_column_width=True, caption="")
+
+    st.markdown("""
+Os integrantes da Organização dos Países Exportadores de Petróleo e aliados (Opep+) confirmaram o corte de produção de petróleo em 2 milhões de barris por dia (bpd) a partir de novembro 2022. Esse é o maior corte desde abril de 2020, quando a pandemia começou. O grupo ainda informa que o acordo de cooperação atual foi estendido até 31 de dezembro de 2023.
+""")
+
+    st.image("img_dash_11.png", use_column_width=True, caption="")
+
+    st.markdown("""
+Dois navios comerciais foram atacados no Mar Vermelho. A ação terrorista aconteceu nesta segunda-feira (18) e teve a autoria reclamada pelo movimento Houthi, do Iêmen. Drones foram usados para o ataque que gerou reação de empresas petroleiras, que começam a desviar embarcações da região.
+A notícia gerou apreensão nos investidores, e houve impacto no mercado de petróleo. Nesta segunda-feira, o barril do tipo brent — principal referência para o mercado brasileiro — subiu 1,80%, e fechou o dia a US$ 77,95. Já o contrato do tipo WTI teve alta de 1,50%, para US$ 72,47.
+""")
 
     st.markdown("---")
     st.markdown("Desenvolvido como MVP interativo com Machine Learning para previsão do petróleo Brent.")
